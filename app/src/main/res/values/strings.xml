@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCooking hihi Long S2 Tai</string>
+    <string name="recent_tab">Recent</string>
+    <string name="foodlist_tab">Food List</string>
+    <string name="editText_inform">Type the box below to edit recipe</string>
+    <string name="editText_hint">Type here</string>
+    <string name="editSuccessfully">Edit Successfully</string>
+    <string name="editFail">this food does not exist in database</string>
+    <string name="favorite">Favorite</string>
+    <string name="favoriteList">Favorite List</string>
+</resources>
