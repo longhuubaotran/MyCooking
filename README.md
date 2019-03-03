@@ -10,4 +10,6 @@ What I learned:
   - basic SQLite such as create table, insert, update, query.
   - basic android studio features to create a basic app
   - compressed images for app's performance
+
+Finished project on 2/24/2019
   
